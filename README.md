@@ -2,7 +2,8 @@
 
 Servidor hecho en node.js-express que recibe un video
 
-# para usarlo
+# para correr la servidor en desarrollo
 
 npm install
+
 npm run server
